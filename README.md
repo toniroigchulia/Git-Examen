@@ -6,16 +6,16 @@ PRIMERA PRACTICA
 1. Usamos los comandos "git init" para iniciar un repositorio en una carpeta de nuestro equipo.
 ![](./git%20init%201.png)
 
-2. Usamos "git clone" para vincularlo con el repositorio online de git.
+2. Usamos "git clone" o "git remote" para vincularlo con el repositorio online de git.
 ![](./git%20clone%202.png)
 
-3.Usamos el "git add" para añadir los archivos al siguiente commit si ponemos " . " despues del add se añadiran todos los archivos si queremos solo un archivo en lugar de " . " ponemos el nombre del archivo.
+3. Usamos el "git add" para añadir los archivos al siguiente commit si ponemos " . " despues del add se añadiran todos los archivos si queremos solo un archivo en lugar de " . " ponemos el nombre del archivo.
 ![](./git%20commit%204.png)
 
 4. Con "git commit" para guardar los cambios que se subiran con el siguiente push.
 ![](./git%20commit%204.png)
 
-5. Usamos "git push" para subir los cambios al repositrio online
+5. Usamos "git push" para subir los cambios al repositrio online en este punto como no habia hecho cambios al readme me salia un error porque no habia nada que subir.
 ![](./git%20push%205.png)
 
 6. Si despues vamos a otro equipo podemos usar "git pull" para descargar a nuestro equipo los nuevos archivos del repositorio online o usar otra vez "git clone" para vinuclar automaticamente con repositorio online.
