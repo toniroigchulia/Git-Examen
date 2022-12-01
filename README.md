@@ -51,4 +51,3 @@ La area de preparacion es donde una vez hemos hecho git add los archivos que hem
 3. Repositorio local (Directorio .git)
 
 El repositorio loacl es donde git crea una carpeta oculta llamada .git donde se guardan todos los cambios que se vayan haciendo a nuestro proyecto y es lo que nos permite volver a versiones anteriores de nuestro programa usando el git checkout porque todos esos archivos tienen una copia guardad dentro de esa carpeta.
-
