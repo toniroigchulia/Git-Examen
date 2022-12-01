@@ -25,10 +25,10 @@
 8. Usando el comando "git checkout (hash)" nos podemos mover a un commit anterior y hacer modificaciones a este asi podemos recuperar algun archivo perdido
 ![](./git%20checkout%208.png)
 
-9. Si ahora usamos el "git log --oneline --all" 
+9. Si ahora usamos el "git log --oneline --all" nos deberia salir el HEAD en otro commit en mi caso como solo he hecho un commit sale en el mismo
 ![](./git%20chekout%209.png)
 
-10.
+10. Una vez queremos volver a la rama principal podemos usar "git checkout master" para volver a trabajar en la rama principal del proyecto.
 ![](./git%20checkout%20master%2010.png)
 =======
 
