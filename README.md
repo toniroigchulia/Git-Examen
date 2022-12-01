@@ -1,6 +1,7 @@
 # Git-Examen
 
 1. Usamos los comandos "git init" para iniciar un repositorio en una carpeta de nuestro equipo.
+<<<<<<< HEAD
 ![](./git%20init%201.png)
 
 2. Usamos "git clone" para vincularlo con el repositorio online de git.
@@ -29,3 +30,5 @@
 
 10.
 ![](./git%20checkout%20master%2010.png)
+=======
+
